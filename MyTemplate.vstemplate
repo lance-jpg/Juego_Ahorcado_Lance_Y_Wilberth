@@ -1,0 +1,22 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Ahorcado_Lance_Y_Wilberth</Name>
+    <Description>ahorcado vedruna, Lance Mackenzie y Wilberth Rodriguez</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Ahorcado_Lance_Y_Wilberth</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Ahorcado_Lance_Y_Wilberth.vcxproj" File="Ahorcado_Lance_Y_Wilberth.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">Ahorcado_Lance_Y_Wilberth.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Ahorcado_Lance_Y_Wilberth.cpp">Ahorcado_Lance_Y_Wilberth.cpp</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
